@@ -1,0 +1,19 @@
+body{
+  background-color:#F5F5DC;
+  color:#000000;
+  font-family: Arial, Helvetica, sansserif;/* set the font here */
+  text-align: center;
+}
+
+a {
+
+  color:#0000FF;/* set the text color to blue here */
+  text-decoration: none;
+
+}
+
+​a:hover{
+
+  color:#FF0000;/* set the text color to red here */
+  text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+}
